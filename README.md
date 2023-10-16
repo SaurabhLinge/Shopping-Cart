@@ -160,20 +160,13 @@ The version of nodejs should be between 14.0 to 16.0
 
 Find the link for the complete documentation of the Ecommero Solution [here](https://e-commero.gitbook.io/ecommero/).
 
-If you want to see demo video of the product please check out the link over [here](https://www.youtube.com/watch?v=qlp4L-boFMY&t=9s)
+If you want to see demo video of the product please check out the link over [here](https://drive.google.com/file/d/1LBnzT0FefOKKLlPEsA3TyLprhAUJo09w/view?usp=sharing)
 
 ## Get the Latest News
 
-- [Facebook](https://www.facebook.com/ninjascodeofficial)
-- [Twitter](https://twitter.com/ninjascode1)
-- [Instagram](https://www.instagram.com/ninjascodeofficial/)
-- [LinkedIn](https://www.linkedin.com/company/14512538)
+- [Instagram](https://www.instagram.com/im_saurabh_linge/?hl=en)
+- [LinkedIn](https://www.linkedin.com/in/saurabh-linge-06b3b4217/)
 
-## Reporting an issue
-
-[Github Issues](https://github.com/Ninjas-Code-official/shopping-cart/issues) are used to track todos, bugs, feature requests, and more.
-
-Also check our [discord community](https://discord.gg/ef6PT6ZH). We'd like to help.
 
 ## Contributing
 
